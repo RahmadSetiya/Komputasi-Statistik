@@ -1,0 +1,841 @@
+ID,Jenis Kelamin,Usia,Pekerjaan,Pendidikan,Tempat Tinggal,1. Pembengkakan,2. Kemerahan,3. Gatal,4. Demam,5. Sakit kepala,6. Nyeri Otot,7. Kelelahan,8. Batuk,9. Diare,10. Mual dan muntah,11. Sesak napas,12. Nyeri Sendi,13. Pingsan,14. Reaksi Anafilaksis,15. Kesemutan,16. Pembengkakan Kelenjar Getah Bening,Waktu gejala (jam)
+P-001,Laki-laki,51-55,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+P-002,Perempuan,41-45,Staf non medis,S2,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-003,Laki-laki,56-60,Dokter,S2,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-004,Laki-laki,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-005,Perempuan,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,14
+P-006,Laki-laki,46-50,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-007,Perempuan,46-50,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-008,Perempuan,56-60,Dokter,S2,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-009,Perempuan,36-40,Staf non medis,S2,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,37
+P-010,Laki-laki,51-55,Perawat,S2,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,14
+P-011,Perempuan,56-60,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,36
+P-012,Perempuan,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+P-013,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-014,Perempuan,41-45,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-015,Laki-laki,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,39
+P-016,Laki-laki,51-55,Staf non medis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-017,Perempuan,51-55,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+P-018,Laki-laki,51-55,Staf non medis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-019,Perempuan,56-60,Perawat,S2,Perdesaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,34
+P-020,Laki-laki,31-35,Staf non medis,SMA,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-021,Perempuan,36-40,Staf non medis,SMA,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-022,Laki-laki,36-40,Staf non medis,S2,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+P-023,Laki-laki,46-50,Staf non medis,S2,Perdesaan,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,39
+P-024,Perempuan,41-45,Staf non medis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+P-025,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-026,Laki-laki,36-40,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-027,Perempuan,26-30,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,13
+P-028,Perempuan,41-45,Perawat,S2,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,14
+P-029,Laki-laki,31-35,Perawat,S1/D4,Perdesaan,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-030,Perempuan,36-40,Perawat,S1/D4,Perkotaan,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,38
+P-031,Perempuan,51-55,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-032,Perempuan,46-50,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-033,Laki-laki,31-35,Staf non medis,SMA,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,13
+P-034,Laki-laki,36-40,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-035,Perempuan,26-30,Staf non medis,S1/D4,Perdesaan,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,37
+P-036,Laki-laki,41-45,Perawat,S2,Perkotaan,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,13
+P-037,Laki-laki,46-50,Staf non medis,S2,Perkotaan,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,37
+P-038,Perempuan,26-30,Staf non medis,S1/D4,Perdesaan,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-039,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,1,0,1,0,0,0,0,1,0,17
+P-040,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-041,Laki-laki,51-55,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,12
+P-042,Perempuan,46-50,Bidan,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33
+P-043,Perempuan,31-35,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-044,Perempuan,46-50,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-045,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+P-046,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+P-047,Laki-laki,31-35,Staf non medis,SMA,Perdesaan,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,15
+P-048,Perempuan,31-35,Staf non medis,SMA,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-049,Perempuan,51-55,Perawat,S1/D4,Perdesaan,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,16
+P-050,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,38
+P-051,Perempuan,51-55,Perawat,S1/D4,Perdesaan,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,0,38
+P-052,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,#VALUE!
+P-053,Perempuan,51-55,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-054,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-055,Perempuan,20-25,Perawat,S1/D4,Perdesaan,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+P-056,Perempuan,51-55,Staf non medis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-057,Perempuan,41-45,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-058,Perempuan,> 60,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-059,Perempuan,31-35,Bidan,S1/D4,Perdesaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,12
+P-060,Perempuan,31-35,Bidan,S1/D4,Perkotaan,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,37
+P-061,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,33
+P-062,Perempuan,46-50,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-063,Perempuan,46-50,Bidan,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+P-064,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,14
+P-065,Perempuan,31-35,Bidan,S1/D4,Perkotaan,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,37
+P-066,Perempuan,26-30,Bidan,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+P-067,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-068,Perempuan,31-35,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-069,Perempuan,31-35,Bidan,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-070,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,13
+P-071,Perempuan,51-55,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-072,Laki-laki,51-55,Dokter spesialis,S2,Perkotaan,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,35
+P-073,Laki-laki,31-35,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-074,Perempuan,26-30,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-075,Laki-laki,36-40,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-076,Perempuan,36-40,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-077,Perempuan,56-60,Dokter spesialis,S2,Perkotaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,32
+P-078,Perempuan,31-35,Bidan,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-079,Perempuan,20-25,Perawat,S1/D4,Perkotaan,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-080,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-081,Perempuan,36-40,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-082,Perempuan,51-55,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,11
+P-083,Laki-laki,51-55,Staf non medis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-084,Laki-laki,46-50,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-085,Laki-laki,36-40,Dokter spesialis,S2,Perdesaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,36
+P-086,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,15
+P-087,Perempuan,20-25,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-088,Laki-laki,26-30,Staf non medis,S1/D4,Perkotaan,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,15
+P-089,Perempuan,46-50,Perawat,S1/D4,Perdesaan,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,36
+P-090,Perempuan,56-60,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-091,Perempuan,51-55,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,12
+P-092,Perempuan,26-30,Bidan,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,17
+P-093,Perempuan,36-40,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,36
+P-094,Laki-laki,51-55,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-095,Perempuan,41-45,Perawat,S1/D4,Perdesaan,1,0,0,0,1,1,1,1,0,0,0,1,0,0,1,0,18
+P-096,Perempuan,51-55,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+P-097,Perempuan,31-35,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,36
+P-098,Perempuan,26-30,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-099,Laki-laki,36-40,Staf non medis,SMA,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-100,Laki-laki,26-30,Perawat,S1/D4,Perdesaan,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,39
+P-101,Perempuan,26-30,Perawat,S1/D4,Perdesaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,38
+P-102,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-103,Perempuan,41-45,Staf non medis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-104,Perempuan,31-35,Staf non medis,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,14
+P-105,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-106,Perempuan,26-30,Perawat,S1/D4,Perdesaan,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,38
+P-107,Perempuan,31-35,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-108,Perempuan,31-35,Staf non medis,SMA,Perkotaan,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,#VALUE!
+P-109,Perempuan,36-40,Staf non medis,S1/D4,Perdesaan,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,39
+P-110,Laki-laki,31-35,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-111,Perempuan,51-55,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-112,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-113,Perempuan,26-30,Staf non medis,SMA,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-114,Perempuan,51-55,Staf non medis,SMA,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,16
+P-115,Laki-laki,46-50,Staf non medis,S1/D4,Perkotaan,1,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,39
+P-116,Laki-laki,41-45,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-117,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-118,Perempuan,51-55,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-119,Perempuan,46-50,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-120,Perempuan,56-60,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-121,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+P-122,Laki-laki,51-55,Staf non medis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-123,Perempuan,41-45,Perawat,S2,Perkotaan,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,38
+P-124,Laki-laki,26-30,Staf non medis,Junior high school,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-125,Laki-laki,51-55,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-126,Laki-laki,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-127,Perempuan,31-35,Dokter spesialis,S1/D4,Perkotaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,11
+P-128,Perempuan,46-50,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-129,Perempuan,36-40,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+P-130,Perempuan,20-25,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-131,Perempuan,26-30,Perawat,S1/D4,Perdesaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,17
+P-132,Perempuan,31-35,Staf non medis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-133,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,14
+P-134,Perempuan,36-40,Perawat,S2,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-135,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,14
+P-136,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-137,Laki-laki,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-138,Laki-laki,31-35,Perawat,S1/D4,Perdesaan,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,36
+P-139,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-140,Perempuan,36-40,Staf non medis,SMA,Perdesaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,16
+P-141,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,36
+P-142,Perempuan,56-60,Bidan,S1/D4,Perkotaan,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,38
+P-143,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,37
+P-144,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-145,Perempuan,26-30,Staf non medis,S1/D4,Perdesaan,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,33
+P-146,Laki-laki,46-50,Staf non medis,S2,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-147,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+P-148,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33
+P-149,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-150,Perempuan,< 20,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-151,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,35
+P-152,Perempuan,41-45,Bidan,S1/D4,Perkotaan,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,38
+P-153,Perempuan,20-25,Perawat,S1/D4,Perdesaan,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,37
+P-154,Perempuan,46-50,Perawat,S1/D4,Perdesaan,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,12
+P-155,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,#VALUE!
+P-156,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,14
+P-157,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,38
+P-158,Perempuan,20-25,Staf non medis,S1/D4,Perkotaan,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,13
+P-159,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,1,0,0,1,0,0,1,0,19
+P-160,Perempuan,31-35,Bidan,S1/D4,Perkotaan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,32
+P-161,Laki-laki,46-50,Staf non medis,S2,Perkotaan,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,39
+P-162,Perempuan,26-30,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-163,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,14
+P-164,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,11
+P-165,Perempuan,36-40,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,32
+P-166,Perempuan,46-50,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-167,Perempuan,36-40,Staf non medis,S1/D4,Perkotaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,14
+P-168,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-169,Perempuan,20-25,Perawat,S1/D4,Perdesaan,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,13
+P-170,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,37
+P-171,Perempuan,20-25,Staf non medis,S1/D4,Perkotaan,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-172,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-173,Laki-laki,51-55,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,37
+P-174,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-175,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,35
+P-176,Perempuan,36-40,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-177,Perempuan,31-35,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-178,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,12
+P-179,Perempuan,36-40,Perawat,S1/D4,Perdesaan,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,13
+P-180,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,38
+P-181,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-182,Perempuan,41-45,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-183,Laki-laki,26-30,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-184,Perempuan,51-55,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,36
+P-185,Perempuan,51-55,Perawat,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+P-186,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,15
+P-187,Perempuan,51-55,Perawat,S1/D4,Perdesaan,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,39
+P-188,Perempuan,26-30,Perawat,S1/D4,Perkotaan,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-189,Perempuan,31-35,Perawat,S1/D4,Perkotaan,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,11
+P-190,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+P-191,Perempuan,26-30,Perawat,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+P-192,Perempuan,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-193,Laki-laki,56-60,Staf non medis,S2,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,13
+P-194,Perempuan,46-50,Staf non medis,S1/D4,Perkotaan,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,#VALUE!
+P-195,Perempuan,36-40,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,15
+P-196,Perempuan,36-40,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-197,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-198,Laki-laki,26-30,Perawat,S1/D4,Perdesaan,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,15
+P-199,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-200,Laki-laki,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-201,Laki-laki,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,13
+P-202,Perempuan,31-35,Staf non medis,S2,Perdesaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,15
+P-203,Perempuan,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,15
+P-204,Perempuan,51-55,Staf non medis,S1/D4,Perkotaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+P-205,Perempuan,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-206,Perempuan,41-45,Perawat,S1/D4,Perdesaan,0,0,0,1,1,1,1,1,0,1,0,0,0,0,1,0,19
+P-207,Laki-laki,20-25,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,34
+P-208,Laki-laki,31-35,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-209,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,34
+P-210,Laki-laki,46-50,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-211,Perempuan,46-50,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-212,Laki-laki,20-25,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,14
+P-213,Laki-laki,31-35,Dokter,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-214,Laki-laki,46-50,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+P-215,Laki-laki,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,33
+P-216,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-217,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,34
+P-218,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,36
+P-219,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-220,Perempuan,31-35,Perawat,S1/D4,Perkotaan,1,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,#VALUE!
+P-221,Perempuan,46-50,Perawat,S2,Perkotaan,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,14
+P-222,Laki-laki,41-45,Staf non medis,SMA,Perdesaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,16
+P-223,Laki-laki,20-25,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-224,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-225,Perempuan,46-50,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+P-226,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,12
+P-227,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,10
+P-228,Laki-laki,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-229,Laki-laki,41-45,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-230,Perempuan,36-40,Bidan,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-231,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-232,Laki-laki,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-233,Laki-laki,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-234,Perempuan,36-40,Perawat,S1/D4,Perdesaan,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+P-235,Perempuan,36-40,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,35
+P-236,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,37
+P-237,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-238,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,#VALUE!
+P-239,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+P-240,Perempuan,56-60,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+P-241,Perempuan,36-40,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-242,Perempuan,36-40,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-243,Perempuan,46-50,Perawat,S1/D4,Perdesaan,0,0,0,0,1,1,1,0,1,1,0,0,0,1,1,0,20
+P-244,Perempuan,36-40,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-245,Perempuan,36-40,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-246,Perempuan,20-25,Staf non medis,SMA,Perdesaan,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,13
+P-247,Perempuan,36-40,Perawat,S1/D4,Perdesaan,0,0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,39
+P-248,Perempuan,36-40,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-249,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-250,Laki-laki,26-30,Perawat,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-251,Perempuan,36-40,Bidan,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,13
+P-252,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,14
+P-253,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-254,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,15
+P-255,Laki-laki,31-35,Staf non medis,S2,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-256,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,13
+P-257,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-258,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+P-259,Perempuan,31-35,Perawat,S2,Perdesaan,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,17
+P-260,Perempuan,26-30,Staf non medis,S1/D4,Perdesaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+P-261,Perempuan,51-55,Staf non medis,S1/D4,Perdesaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+P-262,Perempuan,56-60,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-263,Perempuan,20-25,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31
+P-264,Laki-laki,20-25,Staf non medis,S1/D4,Perkotaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,13
+P-265,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,37
+P-266,Laki-laki,41-45,Staf non medis,S1/D4,Perkotaan,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,15
+P-267,Perempuan,46-50,Staf non medis,SMA,Perkotaan,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,11
+P-268,Perempuan,51-55,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,15
+P-269,Perempuan,26-30,Staf non medis,SMA,Perdesaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,16
+P-270,Perempuan,26-30,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-271,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,38
+P-272,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+P-273,Laki-laki,51-55,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35
+P-274,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,15
+P-275,Perempuan,56-60,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-276,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-277,Perempuan,46-50,Perawat,S1/D4,Perkotaan,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,38
+P-278,Perempuan,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-279,Laki-laki,41-45,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,37
+P-280,Perempuan,41-45,Perawat,S1/D4,Perdesaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,37
+P-281,Perempuan,51-55,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,14
+P-282,Perempuan,51-55,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-283,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,39
+P-284,Perempuan,31-35,Bidan,S1/D4,Perkotaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,38
+P-285,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-286,Perempuan,46-50,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-287,Perempuan,31-35,Perawat,S1/D4,Perkotaan,1,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,#VALUE!
+P-288,Laki-laki,36-40,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+P-289,Perempuan,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-290,Perempuan,20-25,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,34
+P-291,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,32
+P-292,Perempuan,51-55,Perawat,S2,Perkotaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,33
+P-293,Perempuan,41-45,Staf non medis,SMA,Perkotaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,35
+P-294,Perempuan,36-40,Bidan,S1/D4,Perdesaan,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,34
+P-295,Laki-laki,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-296,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-297,Laki-laki,51-55,Staf non medis,S2,Perkotaan,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+P-298,Perempuan,41-45,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32
+P-299,Perempuan,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+P-300,Laki-laki,31-35,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-301,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32
+P-302,Perempuan,20-25,Staf non medis,S1/D4,Perkotaan,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,39
+P-303,Perempuan,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+P-304,Perempuan,31-35,Staf non medis,SMA,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,32
+P-305,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+P-306,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-307,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-308,Perempuan,26-30,Perawat,S1/D4,Perkotaan,1,0,0,1,1,1,1,0,1,0,1,0,0,0,0,0,19
+P-309,Perempuan,< 20,Staf non medis,SMA,Perkotaan,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,14
+P-310,Perempuan,31-35,Perawat,S1/D4,Perdesaan,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,14
+P-311,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,36
+P-312,Perempuan,41-45,Perawat,S1/D4,Perdesaan,1,0,0,1,1,1,1,0,0,0,0,1,0,0,1,0,18
+P-313,Laki-laki,31-35,Staf non medis,S1/D4,Perdesaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,15
+P-314,Perempuan,56-60,Dokter,S2,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-315,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,14
+P-316,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-317,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,13
+P-318,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-319,Perempuan,26-30,Staf non medis,S1/D4,Perdesaan,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,37
+P-320,Perempuan,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-321,Laki-laki,26-30,Perawat,S1/D4,Perdesaan,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,34
+P-322,Perempuan,36-40,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-323,Laki-laki,41-45,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-324,Perempuan,31-35,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11
+P-325,Perempuan,41-45,Perawat,S1/D4,Perdesaan,1,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,18
+P-326,Perempuan,51-55,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,33
+P-327,Perempuan,20-25,Staf non medis,SMA,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-328,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-329,Perempuan,26-30,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,12
+P-330,Perempuan,41-45,Perawat,S2,Perdesaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,36
+P-331,Perempuan,26-30,Perawat,S1/D4,Perdesaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+P-332,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-333,Perempuan,26-30,Perawat,S2,Perkotaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,33
+P-334,Laki-laki,36-40,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-335,Perempuan,41-45,Staf non medis,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,15
+P-336,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-337,Perempuan,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+P-338,Perempuan,51-55,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-339,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,14
+P-340,Perempuan,41-45,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-341,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,39
+P-342,Perempuan,31-35,Bidan,S1/D4,Perdesaan,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,18
+P-343,Laki-laki,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-344,Perempuan,36-40,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32
+P-345,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,12
+P-346,Laki-laki,26-30,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-347,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,37
+P-348,Perempuan,31-35,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-349,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,15
+P-350,Laki-laki,31-35,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35
+P-351,Perempuan,31-35,Staf non medis,SMA,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,33
+P-352,Perempuan,20-25,Staf non medis,S1/D4,Perkotaan,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+P-353,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,36
+P-354,Perempuan,51-55,Perawat,S2,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-355,Laki-laki,31-35,Staf non medis,SMA,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,33
+P-356,Perempuan,26-30,Staf non medis,SMA,Perkotaan,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,12
+P-357,Perempuan,26-30,Perawat,S1/D4,Perdesaan,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,38
+P-358,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-359,Laki-laki,31-35,Perawat,S1/D4,Perdesaan,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,15
+P-360,Laki-laki,20-25,Perawat,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-361,Perempuan,41-45,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-362,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+P-363,Perempuan,36-40,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,12
+P-364,Perempuan,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+P-365,Perempuan,51-55,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,#VALUE!
+P-366,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-367,Laki-laki,36-40,Staf non medis,SMA,Perkotaan,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+P-368,Perempuan,31-35,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-369,Laki-laki,36-40,Staf non medis,SMA,Perkotaan,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-370,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,14
+P-371,Perempuan,41-45,Staf non medis,S1/D4,Perdesaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,39
+P-372,Laki-laki,26-30,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-373,Perempuan,31-35,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-374,Laki-laki,26-30,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-375,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,13
+P-376,Laki-laki,20-25,Staf non medis,SMA,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-377,Laki-laki,41-45,Perawat,S2,Perkotaan,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,37
+P-378,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,37
+P-379,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,15
+P-380,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+P-381,Perempuan,20-25,Perawat,S2,Perdesaan,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,11
+P-382,Laki-laki,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,14
+P-383,Perempuan,20-25,Bidan,S1/D4,Perkotaan,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,13
+P-384,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-385,Laki-laki,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-386,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,10
+P-387,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,15
+P-388,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-389,Perempuan,20-25,Perawat,S2,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-390,Laki-laki,36-40,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,#VALUE!
+P-391,Laki-laki,26-30,Staf non medis,SMA,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-392,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,1,39
+P-393,Perempuan,31-35,Bidan,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-394,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-395,Perempuan,20-25,Perawat,S1/D4,Perdesaan,1,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,17
+P-396,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-397,Perempuan,26-30,Perawat,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-398,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,39
+P-399,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-400,Perempuan,36-40,Staf non medis,S1/D4,Perdesaan,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,34
+P-401,Perempuan,36-40,Staf non medis,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,38
+P-402,Perempuan,20-25,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,13
+P-403,Perempuan,41-45,Perawat,S1/D4,Perdesaan,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,39
+P-404,Perempuan,46-50,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-405,Laki-laki,20-25,Staf non medis,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,15
+P-406,Laki-laki,31-35,Staf non medis,S1/D4,Perdesaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+P-407,Perempuan,41-45,Staf non medis,S1/D4,Perdesaan,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-408,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+P-409,Laki-laki,26-30,Staf non medis,S1/D4,Perkotaan,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-410,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,15
+P-411,Perempuan,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,36
+P-412,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-413,Perempuan,36-40,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+P-414,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-415,Laki-laki,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-416,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,34
+P-417,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-418,Laki-laki,31-35,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,13
+P-419,Laki-laki,26-30,Perawat,S1/D4,Perdesaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+P-420,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+P-421,Perempuan,20-25,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,13
+P-422,Perempuan,20-25,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-423,Perempuan,20-25,Perawat,S2,Perkotaan,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+P-424,Laki-laki,26-30,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-425,Laki-laki,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,15
+P-426,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-427,Perempuan,36-40,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-428,Perempuan,46-50,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-429,Perempuan,26-30,Bidan,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-430,Laki-laki,46-50,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+P-431,Laki-laki,31-35,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-432,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,15
+P-433,Perempuan,31-35,Perawat,S1/D4,Perkotaan,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,17
+P-434,Perempuan,36-40,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-435,Perempuan,31-35,Bidan,S2,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,14
+P-436,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,14
+P-437,Perempuan,20-25,Perawat,S1/D4,Perdesaan,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-438,Laki-laki,36-40,Staf non medis,S1/D4,Perdesaan,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-439,Laki-laki,46-50,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,36
+P-440,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,38
+P-441,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,15
+P-442,Perempuan,36-40,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,14
+P-443,Perempuan,36-40,Staf non medis,S1/D4,Perkotaan,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+P-444,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+P-445,Perempuan,36-40,Bidan,S1/D4,Perkotaan,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,34
+P-446,Perempuan,46-50,Staf non medis,S1/D4,Perdesaan,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,35
+P-447,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-448,Perempuan,41-45,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,36
+P-449,Perempuan,36-40,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-450,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,#VALUE!
+P-451,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-452,Perempuan,20-25,Perawat,S1/D4,Perdesaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,11
+P-453,Perempuan,31-35,Staf non medis,SMA,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,34
+P-454,Laki-laki,51-55,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-455,Perempuan,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-456,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-457,Laki-laki,46-50,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32
+P-458,Perempuan,20-25,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-459,Perempuan,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-460,Perempuan,20-25,Perawat,S1/D4,Perkotaan,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,37
+P-461,Laki-laki,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,14
+P-462,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-463,Perempuan,31-35,Perawat,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-464,Perempuan,36-40,Staf non medis,S1/D4,Perdesaan,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,14
+P-465,Perempuan,31-35,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-466,Laki-laki,36-40,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-467,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,38
+P-468,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+P-469,Perempuan,31-35,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,37
+P-470,Perempuan,26-30,Staf non medis,S1/D4,Perdesaan,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,14
+P-471,Perempuan,36-40,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-472,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-473,Perempuan,51-55,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-474,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-475,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,37
+P-476,Perempuan,46-50,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+P-477,Perempuan,41-45,Perawat,S1/D4,Perkotaan,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11
+P-478,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-479,Perempuan,31-35,Staf non medis,S2,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-480,Laki-laki,51-55,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-481,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,35
+P-482,Perempuan,20-25,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32
+P-483,Perempuan,36-40,Staf non medis,SMA,Perkotaan,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,16
+P-484,Laki-laki,31-35,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-485,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,12
+P-486,Perempuan,36-40,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-487,Perempuan,36-40,Staf non medis,SMA,Perdesaan,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+P-488,Perempuan,36-40,Staf non medis,S1/D4,Perdesaan,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0
+P-489,Laki-laki,26-30,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,36
+P-490,Laki-laki,31-35,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,34
+P-491,Perempuan,26-30,Perawat,S2,Perkotaan,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,34
+P-492,Perempuan,41-45,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-493,Perempuan,20-25,Perawat,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-494,Perempuan,36-40,Perawat,S1/D4,Perdesaan,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,36
+P-495,Perempuan,41-45,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-496,Perempuan,31-35,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-497,Laki-laki,26-30,Perawat,S1/D4,Perdesaan,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-498,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,37
+P-499,Laki-laki,51-55,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-500,Perempuan,56-60,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-501,Perempuan,41-45,Perawat,S1/D4,Perdesaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,14
+P-502,Perempuan,20-25,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-503,Perempuan,31-35,Perawat,S1/D4,Perkotaan,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,39
+P-504,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+P-505,Perempuan,20-25,Staf non medis,SMA,Perkotaan,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+P-506,Laki-laki,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-507,Perempuan,46-50,Dokter spesialis,S2,Perkotaan,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-508,Perempuan,31-35,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-509,Perempuan,56-60,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-510,Laki-laki,26-30,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-511,Laki-laki,31-35,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-512,Perempuan,51-55,Perawat,S1/D4,Perdesaan,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,35
+P-513,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,34
+P-514,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-515,Laki-laki,31-35,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-516,Perempuan,51-55,Bidan,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-517,Perempuan,36-40,Perawat,S1/D4,Perdesaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,33
+P-518,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,38
+P-519,Perempuan,46-50,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35
+P-520,Laki-laki,51-55,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-521,Perempuan,41-45,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+P-522,Perempuan,36-40,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-523,Laki-laki,51-55,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-524,Perempuan,36-40,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-525,Laki-laki,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,14
+P-526,Laki-laki,41-45,Staf non medis,SMA,Perdesaan,0,0,0,0,1,1,1,0,0,0,1,1,1,1,0,0,0
+P-527,Laki-laki,51-55,Dokter spesialis,S2,Perkotaan,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,36
+P-528,Perempuan,46-50,Perawat,S1/D4,Perdesaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,34
+P-529,Laki-laki,51-55,Staf non medis,S2,Perkotaan,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,#VALUE!
+P-530,Laki-laki,26-30,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-531,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+P-532,Laki-laki,26-30,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,12
+P-533,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,16
+P-534,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-535,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-536,Laki-laki,31-35,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-537,Perempuan,20-25,Staf non medis,SMA,Perdesaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,#VALUE!
+P-538,Perempuan,20-25,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,32
+P-539,Perempuan,26-30,Perawat,S1/D4,Perdesaan,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,39
+P-540,Perempuan,41-45,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,14
+P-541,Perempuan,41-45,Staf non medis,Junior high school,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-542,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-543,Perempuan,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-544,Laki-laki,31-35,Staf non medis,SMA,Perkotaan,0,0,0,0,1,1,1,1,0,0,0,1,0,0,1,0,39
+P-545,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-546,Perempuan,36-40,Perawat,S2,Perdesaan,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,34
+P-547,Perempuan,36-40,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-548,Perempuan,20-25,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-549,Perempuan,36-40,Dokter spesialis,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+P-550,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-551,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-552,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-553,Laki-laki,31-35,Dokter,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+P-554,Laki-laki,51-55,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-555,Perempuan,51-55,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-556,Laki-laki,36-40,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-557,Laki-laki,56-60,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-558,Laki-laki,36-40,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35
+P-559,Perempuan,26-30,Dokter,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,34
+P-560,Laki-laki,51-55,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,14
+P-561,Laki-laki,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-562,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,14
+P-563,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-564,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-565,Perempuan,36-40,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,14
+P-566,Perempuan,46-50,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+P-567,Laki-laki,36-40,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-568,Perempuan,51-55,Staf non medis,SMA,Perkotaan,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,38
+P-569,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+P-570,Perempuan,26-30,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+P-571,Laki-laki,41-45,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-572,Laki-laki,20-25,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-573,Perempuan,31-35,Dokter,S1/D4,Perdesaan,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,18
+P-574,Perempuan,46-50,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+P-575,Perempuan,41-45,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-576,Laki-laki,26-30,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,13
+P-577,Perempuan,26-30,Perawat,S1/D4,Perkotaan,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,36
+P-578,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,11
+P-579,Perempuan,36-40,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-580,Perempuan,20-25,Dokter,S1/D4,Perkotaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,10
+P-581,Laki-laki,31-35,Dokter spesialis,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,14
+P-582,Perempuan,41-45,Dokter spesialis,S2,Perkotaan,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,16
+P-583,Perempuan,26-30,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-584,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,37
+P-585,Perempuan,31-35,Bidan,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-586,Laki-laki,46-50,Staf non medis,SMA,Perkotaan,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,17
+P-587,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,#VALUE!
+P-588,Perempuan,46-50,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-589,Laki-laki,20-25,Staf non medis,SMA,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+P-590,Laki-laki,31-35,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-591,Laki-laki,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,12
+P-592,Laki-laki,56-60,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-593,Perempuan,41-45,Perawat,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-594,Perempuan,46-50,Staf non medis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-595,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,36
+P-596,Laki-laki,26-30,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-597,Laki-laki,20-25,Staf non medis,S1/D4,Perdesaan,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-598,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,33
+P-599,Perempuan,46-50,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,12
+P-600,Perempuan,46-50,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35
+P-601,Perempuan,51-55,Bidan,S1/D4,Perdesaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,13
+P-602,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+P-603,Perempuan,31-35,Bidan,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-604,Laki-laki,51-55,Staf non medis,S2,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-605,Laki-laki,51-55,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-606,Perempuan,51-55,Dokter spesialis,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-607,Perempuan,36-40,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+P-608,Laki-laki,31-35,Staf non medis,S1/D4,Perdesaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,14
+P-609,Perempuan,56-60,Perawat,SMA,Perdesaan,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,#VALUE!
+P-610,Perempuan,26-30,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+P-611,Laki-laki,56-60,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-612,Perempuan,20-25,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-613,Perempuan,56-60,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-614,Perempuan,31-35,Perawat,S1/D4,Perkotaan,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,40
+P-615,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-616,Laki-laki,31-35,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,11
+P-617,Perempuan,46-50,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,12
+P-618,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33
+P-619,Laki-laki,46-50,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-620,Perempuan,26-30,Perawat,S1/D4,Perkotaan,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,18
+P-621,Laki-laki,51-55,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-622,Perempuan,46-50,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,#VALUE!
+P-623,Perempuan,51-55,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+P-624,Laki-laki,46-50,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-625,Laki-laki,20-25,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,15
+P-626,Laki-laki,46-50,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-627,Laki-laki,20-25,Staf non medis,SMA,Perkotaan,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11
+P-628,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-629,Perempuan,36-40,Staf non medis,S1/D4,Perkotaan,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+P-630,Perempuan,20-25,Bidan,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-631,Laki-laki,31-35,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-632,Laki-laki,46-50,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-633,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+P-634,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+P-635,Laki-laki,26-30,Staf non medis,S1/D4,Perkotaan,1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,37
+P-636,Perempuan,51-55,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-637,Perempuan,41-45,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-638,Laki-laki,26-30,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-639,Perempuan,41-45,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-640,Perempuan,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,37
+P-641,Perempuan,31-35,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-642,Perempuan,46-50,Perawat,S2,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,35
+P-643,Laki-laki,36-40,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-644,Perempuan,51-55,Perawat,S1/D4,Perkotaan,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,11
+P-645,Laki-laki,20-25,Staf non medis,SMA,Perdesaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,14
+P-646,Laki-laki,46-50,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35
+P-647,Perempuan,46-50,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-648,Laki-laki,46-50,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-649,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,#VALUE!
+P-650,Perempuan,20-25,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-651,Perempuan,31-35,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-652,Laki-laki,36-40,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+P-653,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-654,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-655,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+P-656,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31
+P-657,Laki-laki,26-30,Staf non medis,SMA,Perkotaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,15
+P-658,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-659,Perempuan,< 20,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-660,Perempuan,56-60,Staf non medis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-661,Perempuan,31-35,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-662,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+P-663,Perempuan,56-60,Perawat,S1/D4,Perkotaan,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-664,Perempuan,56-60,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+P-665,Perempuan,20-25,Perawat,S1/D4,Perkotaan,1,0,0,0,1,1,1,0,0,0,0,1,0,0,1,0,41
+P-666,Perempuan,36-40,Dokter spesialis,S2,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,16
+P-667,Laki-laki,51-55,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-668,Perempuan,36-40,Dokter spesialis,S2,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-669,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,38
+P-670,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-671,Laki-laki,31-35,Staf non medis,S1/D4,Perdesaan,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,13
+P-672,Perempuan,41-45,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+P-673,Perempuan,36-40,Perawat,S1/D4,Perdesaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,38
+P-674,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,14
+P-675,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-676,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-677,Perempuan,36-40,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-678,Perempuan,46-50,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,12
+P-679,Perempuan,20-25,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-680,Perempuan,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-681,Perempuan,51-55,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,34
+P-682,Laki-laki,36-40,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+P-683,Laki-laki,36-40,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-684,Laki-laki,46-50,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-685,Perempuan,26-30,Staf non medis,S2,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0
+P-686,Perempuan,36-40,Perawat,SMA,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-687,Laki-laki,51-55,Staf non medis,SMA,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+P-688,Laki-laki,51-55,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-689,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,32
+P-690,Perempuan,46-50,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+P-691,Perempuan,46-50,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-692,Perempuan,41-45,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-693,Perempuan,36-40,Staf non medis,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,16
+P-694,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-695,Laki-laki,51-55,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-696,Perempuan,26-30,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-697,Laki-laki,46-50,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-698,Laki-laki,46-50,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-699,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,13
+P-700,Perempuan,51-55,Staf non medis,S1/D4,Perdesaan,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,16
+P-701,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-702,Laki-laki,46-50,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-703,Perempuan,26-30,Staf non medis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-704,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,39
+P-705,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-706,Perempuan,20-25,Bidan,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-707,Perempuan,51-55,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+P-708,Perempuan,20-25,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+P-709,Laki-laki,56-60,Staf non medis,SMA,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-710,Perempuan,31-35,Staf non medis,S1/D4,Perdesaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,14
+P-711,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-712,Perempuan,31-35,Perawat,S2,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+P-713,Perempuan,20-25,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+P-714,Perempuan,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,36
+P-715,Perempuan,31-35,Perawat,S1/D4,Perkotaan,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,17
+P-716,Perempuan,46-50,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-717,Laki-laki,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,#VALUE!
+P-718,Laki-laki,56-60,Dokter spesialis,S1/D4,Perkotaan,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-719,Laki-laki,46-50,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-720,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,37
+P-721,Perempuan,26-30,Perawat,S1/D4,Perdesaan,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,#VALUE!
+P-722,Perempuan,36-40,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-723,Perempuan,51-55,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,38
+P-724,Perempuan,41-45,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-725,Perempuan,46-50,Staf non medis,SMA,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-726,Laki-laki,51-55,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,13
+P-727,Perempuan,46-50,Perawat,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,33
+P-728,Laki-laki,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-729,Laki-laki,41-45,Staf non medis,S2,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-730,Perempuan,41-45,Perawat,S1/D4,Perdesaan,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,35
+P-731,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-732,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,37
+P-733,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-734,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-735,Perempuan,46-50,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-736,Perempuan,31-35,Perawat,S1/D4,Perkotaan,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,15
+P-737,Laki-laki,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-738,Perempuan,46-50,Perawat,S1/D4,Perdesaan,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,38
+P-739,Perempuan,31-35,Bidan,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-740,Perempuan,26-30,Perawat,S1/D4,Perkotaan,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+P-741,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-742,Laki-laki,31-35,Staf non medis,SMA,Perkotaan,0,0,0,0,1,1,1,1,0,0,0,1,0,0,1,0,39
+P-743,Perempuan,41-45,Perawat,S2,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-744,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,34
+P-745,Perempuan,36-40,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-746,Laki-laki,36-40,Perawat,S1/D4,Perkotaan,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-747,Perempuan,31-35,Perawat,S1/D4,Perdesaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,11
+P-748,Perempuan,20-25,Perawat,S1/D4,Perdesaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,35
+P-749,Perempuan,26-30,Perawat,S1/D4,Perkotaan,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,16
+P-750,Perempuan,36-40,Staf non medis,S2,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+P-751,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-752,Perempuan,41-45,Perawat,S1/D4,Perdesaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+P-753,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,#VALUE!
+P-754,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-755,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-756,Laki-laki,36-40,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-757,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,11
+P-758,Perempuan,51-55,Dokter spesialis,S2,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-759,Laki-laki,56-60,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35
+P-760,Laki-laki,26-30,Dokter,S2,Perkotaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,10
+P-761,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-762,Perempuan,26-30,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+P-763,Laki-laki,26-30,Dokter,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-764,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-765,Laki-laki,31-35,Dokter spesialis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-766,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-767,Perempuan,> 60,Dokter,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+P-768,Perempuan,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,33
+P-769,Perempuan,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-770,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-771,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+P-772,Perempuan,31-35,Dokter,S2,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,38
+P-773,Perempuan,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,35
+P-774,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-775,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+P-776,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-777,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-778,Perempuan,31-35,Dokter,S1/D4,Perkotaan,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,34
+P-779,Perempuan,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-780,Laki-laki,26-30,Dokter,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+P-781,Laki-laki,20-25,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-782,Laki-laki,20-25,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-783,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,15
+P-784,Perempuan,20-25,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+P-785,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-786,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+P-787,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,34
+P-788,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+P-789,Perempuan,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,34
+P-790,Perempuan,36-40,Dokter,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-791,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+P-792,Perempuan,51-55,Dokter spesialis,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-793,Laki-laki,26-30,Dokter,S2,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,14
+P-794,Perempuan,31-35,Dokter,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-795,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-796,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,36
+P-797,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,15
+P-798,Laki-laki,31-35,Dokter,S2,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+P-799,Laki-laki,26-30,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-800,Perempuan,31-35,Dokter,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33
+P-801,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-802,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31
+P-803,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-804,Laki-laki,31-35,Dokter spesialis,S1/D4,Perdesaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-805,Perempuan,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,13
+P-806,Laki-laki,26-30,Dokter,S1/D4,Perdesaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+P-807,Laki-laki,26-30,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,13
+P-808,Laki-laki,26-30,Staf non medis,S1/D4,Perdesaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,14
+P-809,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,36
+P-810,Laki-laki,26-30,Dokter spesialis,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,12
+P-811,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-812,Laki-laki,31-35,Dokter spesialis,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-813,Laki-laki,26-30,Dokter,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-814,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,15
+P-815,Perempuan,46-50,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,33
+P-816,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,14
+P-817,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-818,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-819,Perempuan,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,12
+P-820,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-821,Laki-laki,31-35,Dokter,S2,Perkotaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+P-822,Laki-laki,46-50,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-823,Perempuan,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,13
+P-824,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-825,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,14
+P-826,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,13
+P-827,Perempuan,31-35,Perawat,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-828,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,12
+P-829,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,37
+P-830,Laki-laki,> 60,Dokter spesialis,S2,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P-831,Perempuan,26-30,Dokter spesialis,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,36
+P-832,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,10
+P-833,Laki-laki,31-35,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+P-834,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+P-835,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+P-836,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,36
+P-837,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11
+P-838,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,12
+P-839,Perempuan,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,37
+P-840,Laki-laki,26-30,Dokter,S1/D4,Perkotaan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
